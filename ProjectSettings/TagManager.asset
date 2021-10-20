@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mateorito
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - meteor
+  - walls
+  - shoots
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgrounds
+    uniqueID: 2804369367
+    locked: 0
+  - name: enemy
+    uniqueID: 1620508933
+    locked: 0
+  - name: player
+    uniqueID: 254044343
+    locked: 0
+  - name: efectos
+    uniqueID: 1909986201
+    locked: 0
